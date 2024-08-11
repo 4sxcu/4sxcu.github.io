@@ -1,5 +1,5 @@
 // Typewriter Effect
-const texts = ["Website made by zynqunix, skidded by abandoned.user", "this user has been forgotten" , "Evidence Deleter" , "Debating about Just and Unjust" , "went under the names : aj - q7T - iei - sxcu" , "From The River To The Sea. Palestine Will Be Free"];
+const texts = ["Website made by zyqunix, skidded by abandoned.user", "this user has been forgotten" , "Evidence Deleter" , "Debating about Just and Unjust" , "went under the names : aj - q7T - iei - sxcu" , "From The River To The Sea. Palestine Will Be Free"];
 let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
